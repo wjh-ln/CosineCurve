@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target des_publish[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/cosine_curve_generate.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/des_publish.cpp.o[0m
+[100%] [32m[1mLinking CXX executable des_publish[0m

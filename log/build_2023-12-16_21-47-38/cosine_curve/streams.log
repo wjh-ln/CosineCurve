@@ -1,0 +1,12 @@
+[0.064s] Invoking command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --build /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve -- -j20 -l20
+[0.073s] [35m[1mConsolidate compiler generated dependencies of target des_publish[0m
+[0.079s] [ 33%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/cosine_curve_generate.cpp.o[0m
+[0.079s] [ 66%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/des_publish.cpp.o[0m
+[0.816s] [100%] [32m[1mLinking CXX executable des_publish[0m
+[0.860s] /usr/bin/ld: CMakeFiles/des_publish.dir/src/des_publish.cpp.o: in function `main':
+[0.860s] des_publish.cpp:(.text+0xa6): undefined reference to `CosineCurvePublish::CosineCurvePublish(double, double, double, double)'
+[0.860s] collect2: error: ld returned 1 exit status
+[0.860s] make[2]: *** [CMakeFiles/des_publish.dir/build.make:160：des_publish] 错误 1
+[0.860s] make[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/des_publish.dir/all] 错误 2
+[0.860s] make: *** [Makefile:146：all] 错误 2
+[0.861s] Invoked command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --build /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve -- -j20 -l20

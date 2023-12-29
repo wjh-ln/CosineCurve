@@ -1,0 +1,13 @@
+[35m[1mConsolidate compiler generated dependencies of target des_publish[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/cosine_curve_generate.cpp.o[0m
+[01m[K/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/src/cosine_curve/src/cosine_curve_generate.cpp:[m[K In constructor ‘[01m[KCosineCurve::CosineCurve(double, double, double, double)[m[K’:
+[01m[K/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/src/cosine_curve/src/cosine_curve_generate.cpp:13:39:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[KA[m[K’
+   13 |     cosine_outfile.open("outfile.txt")
+      |                                       [01;31m[K^[m[K
+      |                                       [32m[K;[m[K
+   14 | 
+   15 |     [32m[KA[m[K = 0.5 * vel_max;
+      |     [32m[K~[m[K                                  
+make[2]: *** [CMakeFiles/des_publish.dir/build.make:76：CMakeFiles/des_publish.dir/src/cosine_curve_generate.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/des_publish.dir/all] 错误 2
+make: *** [Makefile:146：all] 错误 2

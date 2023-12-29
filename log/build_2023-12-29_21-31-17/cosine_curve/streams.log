@@ -1,0 +1,26 @@
+[0.061s] Invoking command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --build /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve -- -j20 -l20
+[0.072s] [35m[1mConsolidate compiler generated dependencies of target des_publish[0m
+[0.078s] [ 33%] [32mBuilding CXX object CMakeFiles/des_publish.dir/src/des_publish.cpp.o[0m
+[0.798s] [ 66%] [32m[1mLinking CXX executable des_publish[0m
+[0.847s] [100%] Built target des_publish
+[0.849s] Invoked command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --build /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve -- -j20 -l20
+[0.861s] Invoking command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --install /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve
+[0.863s] -- Install configuration: ""
+[0.863s] -- Installing: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/lib/cosine_curve/des_publish
+[0.863s] -- Set runtime path of "/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/lib/cosine_curve/des_publish" to ""
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/ament_index/resource_index/package_run_dependencies/cosine_curve
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/ament_index/resource_index/parent_prefix_path/cosine_curve
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/environment/ament_prefix_path.sh
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/environment/ament_prefix_path.dsv
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/environment/path.sh
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/environment/path.dsv
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/local_setup.bash
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/local_setup.sh
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/local_setup.zsh
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/local_setup.dsv
+[0.863s] -- Installing: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/package.dsv
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/ament_index/resource_index/packages/cosine_curve
+[0.863s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/cmake/cosine_curveConfig.cmake
+[0.864s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/cmake/cosine_curveConfig-version.cmake
+[0.864s] -- Up-to-date: /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/install/cosine_curve/share/cosine_curve/package.xml
+[0.864s] Invoked command in '/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/local/bin/cmake --install /home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/build/cosine_curve
