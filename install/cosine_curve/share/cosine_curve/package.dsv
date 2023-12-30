@@ -1,8 +1,0 @@
-source;share/cosine_curve/hook/cmake_prefix_path.ps1
-source;share/cosine_curve/hook/cmake_prefix_path.dsv
-source;share/cosine_curve/hook/cmake_prefix_path.sh
-source;share/cosine_curve/local_setup.bash
-source;share/cosine_curve/local_setup.dsv
-source;share/cosine_curve/local_setup.ps1
-source;share/cosine_curve/local_setup.sh
-source;share/cosine_curve/local_setup.zsh

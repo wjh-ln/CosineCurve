@@ -1,7 +1,0 @@
-[01m[K/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/src/cosine_curve/src/cosine_curve_generate.cpp:[m[K In constructor ‘[01m[KCosineCurve::CosineCurve(double, double, double, double)[m[K’:
-[01m[K/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/src/cosine_curve/src/cosine_curve_generate.cpp:8:33:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpos_start[m[K’ [[01;35m[K-Wunused-parameter[m[K]
-    8 | CosineCurve::CosineCurve([01;35m[Kdouble pos_start[m[K, double pos_end, double vel_max, double acc_max)
-      |                          [01;35m[K~~~~~~~^~~~~~~~~[m[K
-[01m[K/home/wjhln/Project/Learnning/Motion_Planning/CosineCurve/src/cosine_curve/src/cosine_curve_generate.cpp:8:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kpos_end[m[K’ [[01;35m[K-Wunused-parameter[m[K]
-    8 | CosineCurve::CosineCurve(double pos_start, [01;35m[Kdouble pos_end[m[K, double vel_max, double acc_max)
-      |                                            [01;35m[K~~~~~~~^~~~~~~[m[K
