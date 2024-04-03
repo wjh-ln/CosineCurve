@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/ros/foxy/include/**",
+                "/opt/ros/humble/include/**",
                 "${workspaceFolder}/src/cosine_curve/include"
             ],
             "defines": [],

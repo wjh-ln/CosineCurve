@@ -13,11 +13,13 @@ private:
     double A = 0.0;
     double w = 0.0;
     double T[3] = {0.0, 0.0, 0.0};
+    double V0;
     double delt_t = 0.005;
     void cosineCurveGeneration(void);
+    void cosineCurveGenerationWithoutDeceleclertion(void);
 
 public:
-    CosineCurve(double pos_start, double pos_end, double vel_max, double acc_max);
+    CosineCurve(double pos_start, double pos_end, double vel_max, double acc_max, double v0, bool if_stop);
 };
 
 #endif
